@@ -1,6 +1,6 @@
 ## Demo
 
-Live Demo, [click here](waiting)
+Live Demo, [click here](https://master.d9877m9w5di5h.amplifyapp.com/)
 
 ## Cloning and installing
 
